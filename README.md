@@ -162,3 +162,12 @@ flutter pub get
 # Jalankan aplikasi
 flutter run
 ```
+
+## Developer
+```
+Nama : Muhammad Fakhri Al-Kautsar
+
+Nim : 2409116081
+
+Kelas : Sistem Informasi c'24
+```
